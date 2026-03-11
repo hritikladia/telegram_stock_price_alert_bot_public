@@ -1,5 +1,5 @@
 # Telegram Stock Price Alert Bot
-
+![scrnsht](screenshot.png)
 A **real-time Telegram bot for automated stock price alerts**.
 
 The bot monitors live market prices and triggers **instant Telegram notifications** when user-defined conditions are met.
